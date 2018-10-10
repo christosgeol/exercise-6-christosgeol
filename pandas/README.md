@@ -10,7 +10,7 @@ If you are uncertain about **the style of your code**, take a look at the **[PEP
  - **Exercise 6 is due by 16:00 on 17.10.**
  - Don't forget to check out the [hints for this week's exercise](https://geo-python.github.io/2018/lessons/L6/exercise-6-hints.html) if you're having trouble.
  - Scores on this exercise are out of 20 points.
- - There are altogether 4 problems that you should solve. The fifth problem is optional (Problem 2.1) for more advanced students (does not affect grading)
+ - There are altogether 3 problems that you should solve. The fourth problem is optional (Problem 4) for more advanced students (does not affect grading)
 
 ## Data
 
